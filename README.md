@@ -6,8 +6,8 @@ This project uses vibration signal data from bearing to classify fault types (e.
 
 # REPOSITORY STRUCTURE
 ```
-├── data/             # Raw and processed data files (MAT, CSV)
-├── code/             # Jupyter notebooks and .py scripts
+├── data/             # Raw and processed data files (CSV)
+├── code/             # Google Colab notebooks and .py scripts
 ├── models/           # Exported models (.joblib)
 ├── visuals/          # PCA, t-SNE plots, accuracy graphs
 ├── README.md         # Project description and instructions
