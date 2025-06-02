@@ -5,13 +5,13 @@ Machine Learning project for bearing fault classification using Random Forest an
 This project uses vibration signal data from bearing to classify fault types (e.g. Inner Race, Outer Race, Ball Fault) using machine learning models like Random Forest and SVM. The code includes preprocessing, feature extraction, model training, visualization, and exporting ability for trained models for future use.
 
 # REPOSITORY STRUCTURE
-
+```
 ├── data/             # Raw and processed data files (MAT, CSV)
 ├── code/             # Jupyter notebooks and .py scripts
 ├── models/           # Exported models (.joblib)
 ├── visuals/          # PCA, t-SNE plots, accuracy graphs
 ├── README.md         # Project description and instructions
-
+```
 
 # FEATURES
 - Signal preprocessing with noise.
